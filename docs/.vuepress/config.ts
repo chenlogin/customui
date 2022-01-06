@@ -86,6 +86,4 @@ export default defineUserConfig<DefaultThemeOptions>({
     __GLOBAL_STRING__: 'foobar',
     __GLOBAL_OBJECT__: { foo: 'bar' },
   },
-})
-
-//4、layout
+  })

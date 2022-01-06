@@ -1,0 +1,31 @@
+{
+  "hash": "30d5dad5",
+  "browserHash": "3feef346",
+  "optimized": {
+    "vue": {
+      "file": "/Users/chen/Documents/personal/customui/docs/.vuepress/.cache/vue.js",
+      "src": "/Users/chen/Documents/personal/customui/node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js",
+      "needsInterop": false
+    },
+    "vue-router": {
+      "file": "/Users/chen/Documents/personal/customui/docs/.vuepress/.cache/vue-router.js",
+      "src": "/Users/chen/Documents/personal/customui/node_modules/vue-router/dist/vue-router.esm-bundler.js",
+      "needsInterop": false
+    },
+    "@vueuse/core": {
+      "file": "/Users/chen/Documents/personal/customui/docs/.vuepress/.cache/@vueuse_core.js",
+      "src": "/Users/chen/Documents/personal/customui/node_modules/@vueuse/core/index.mjs",
+      "needsInterop": false
+    },
+    "nprogress": {
+      "file": "/Users/chen/Documents/personal/customui/docs/.vuepress/.cache/nprogress.js",
+      "src": "/Users/chen/Documents/personal/customui/node_modules/nprogress/nprogress.js",
+      "needsInterop": true
+    },
+    "@vuepress/shared": {
+      "file": "/Users/chen/Documents/personal/customui/docs/.vuepress/.cache/@vuepress_shared.js",
+      "src": "/Users/chen/Documents/personal/customui/node_modules/@vuepress/shared/lib/esm/index.js",
+      "needsInterop": false
+    }
+  }
+}

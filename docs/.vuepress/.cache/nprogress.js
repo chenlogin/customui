@@ -2,8 +2,10 @@ import {
   __commonJS,
   init_define_DEMOBLOCK_LOCALES,
   init_define_GLOBAL_OBJECT,
-  init_define_MZ_ZOOM_OPTIONS
-} from "./chunk-HGB2DLN5.js";
+  init_define_MZ_ZOOM_OPTIONS,
+  init_define_SEARCH_HOT_KEYS,
+  init_define_SEARCH_LOCALES
+} from "./chunk-PGDHN74W.js";
 
 // node_modules/nprogress/nprogress.js
 var require_nprogress = __commonJS({
@@ -11,6 +13,8 @@ var require_nprogress = __commonJS({
     init_define_DEMOBLOCK_LOCALES();
     init_define_GLOBAL_OBJECT();
     init_define_MZ_ZOOM_OPTIONS();
+    init_define_SEARCH_HOT_KEYS();
+    init_define_SEARCH_LOCALES();
     (function(root, factory) {
       if (typeof define === "function" && define.amd) {
         define(factory);
@@ -289,6 +293,8 @@ var require_nprogress = __commonJS({
 init_define_DEMOBLOCK_LOCALES();
 init_define_GLOBAL_OBJECT();
 init_define_MZ_ZOOM_OPTIONS();
+init_define_SEARCH_HOT_KEYS();
+init_define_SEARCH_LOCALES();
 var nprogress_default = require_nprogress();
 export {
   nprogress_default as default

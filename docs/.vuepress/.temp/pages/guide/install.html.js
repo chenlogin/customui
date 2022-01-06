@@ -7,8 +7,14 @@ export const data = {
   "excerpt": "",
   "headers": [],
   "git": {
-    "updatedTime": null,
-    "contributors": []
+    "updatedTime": 1641484159000,
+    "contributors": [
+      {
+        "name": "meng.chen",
+        "email": "meng.chen@17zuoye.com",
+        "commits": 1
+      }
+    ]
   },
   "filePathRelative": "guide/install.md"
 }

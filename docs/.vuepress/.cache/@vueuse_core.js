@@ -24,33 +24,43 @@ import {
   watch,
   watchEffect,
   watchSyncEffect
-} from "./chunk-PVW4A3TB.js";
-import "./chunk-QZSKD35J.js";
+} from "./chunk-PUBZX5WT.js";
+import "./chunk-XPUMZHC6.js";
 import {
   init_define_DEMOBLOCK_LOCALES,
   init_define_GLOBAL_OBJECT,
-  init_define_MZ_ZOOM_OPTIONS
-} from "./chunk-HGB2DLN5.js";
+  init_define_MZ_ZOOM_OPTIONS,
+  init_define_SEARCH_HOT_KEYS,
+  init_define_SEARCH_LOCALES
+} from "./chunk-PGDHN74W.js";
 
 // dep:@vueuse_core
 init_define_DEMOBLOCK_LOCALES();
 init_define_GLOBAL_OBJECT();
 init_define_MZ_ZOOM_OPTIONS();
+init_define_SEARCH_HOT_KEYS();
+init_define_SEARCH_LOCALES();
 
 // node_modules/@vueuse/core/index.mjs
 init_define_DEMOBLOCK_LOCALES();
 init_define_GLOBAL_OBJECT();
 init_define_MZ_ZOOM_OPTIONS();
+init_define_SEARCH_HOT_KEYS();
+init_define_SEARCH_LOCALES();
 
 // node_modules/@vueuse/shared/index.mjs
 init_define_DEMOBLOCK_LOCALES();
 init_define_GLOBAL_OBJECT();
 init_define_MZ_ZOOM_OPTIONS();
+init_define_SEARCH_HOT_KEYS();
+init_define_SEARCH_LOCALES();
 
 // node_modules/vue-demi/lib/index.mjs
 init_define_DEMOBLOCK_LOCALES();
 init_define_GLOBAL_OBJECT();
 init_define_MZ_ZOOM_OPTIONS();
+init_define_SEARCH_HOT_KEYS();
+init_define_SEARCH_LOCALES();
 var isVue2 = false;
 var isVue3 = true;
 function set(target, key, val) {

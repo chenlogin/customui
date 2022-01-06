@@ -36,10 +36,10 @@ export const themeData = {
       ]
     }
   ],
-  "repo": "https://github.com/",
   "lastUpdated": true,
   "contributors": true,
-  "editLinkText": "在 GitHub 上编辑此页",
+  "editLink": false,
+  "repo": "https://github.com/chenlogin/customui",
   "lastUpdatedText": "上次更新",
   "contributorsText": "贡献者",
   "locales": {
@@ -51,7 +51,7 @@ export const themeData = {
   "selectLanguageText": "Languages",
   "selectLanguageAriaLabel": "Select language",
   "sidebarDepth": 2,
-  "editLink": true,
+  "editLinkText": "Edit this page",
   "notFound": [
     "There's nothing here.",
     "How did we get here?",

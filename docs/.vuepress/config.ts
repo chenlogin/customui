@@ -49,15 +49,29 @@ export default defineUserConfig<DefaultThemeOptions>({
         ],
       }
     ],
-    repo: 'https://github.com/',
+    
     lastUpdated: true,
     contributors: true,
-    editLinkText: '在 GitHub 上编辑此页',
+    editLink:false,
+    repo: 'https://github.com/chenlogin/customui',
     lastUpdatedText: '上次更新',
     contributorsText: '贡献者'
   },
   plugins: [
     ['vuepress-plugin-demoblock-plus'],
+    [
+      '@vuepress/plugin-search',
+      {
+        locales: {
+          '/': {
+            placeholder: 'Search',
+          },
+          '/zh/': {
+            placeholder: '搜索',
+          },
+        },
+      },
+    ],
     [
       '@vuepress/register-components',
       {
@@ -74,7 +88,4 @@ export default defineUserConfig<DefaultThemeOptions>({
   },
 })
 
-
-//2、搜索
 //4、layout
-//5、Edit this page

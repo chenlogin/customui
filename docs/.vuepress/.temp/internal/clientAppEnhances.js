@@ -3,7 +3,8 @@ import clientAppEnhance1 from '/Users/chen/Documents/personal/customui/node_modu
 import clientAppEnhance2 from '/Users/chen/Documents/personal/customui/node_modules/@vuepress/plugin-theme-data/lib/client/clientAppEnhance.js'
 import clientAppEnhance3 from '/Users/chen/Documents/personal/customui/node_modules/@vuepress/theme-default/lib/client/clientAppEnhance.js'
 import clientAppEnhance4 from '/Users/chen/Documents/personal/customui/node_modules/vuepress-plugin-demoblock-plus/client/clientAppEnhance.js'
-import clientAppEnhance5 from '/Users/chen/Documents/personal/customui/docs/.vuepress/.temp/register-components/clientAppEnhance.039e954d.js'
+import clientAppEnhance5 from '/Users/chen/Documents/personal/customui/node_modules/@vuepress/plugin-search/lib/client/clientAppEnhance.js'
+import clientAppEnhance6 from '/Users/chen/Documents/personal/customui/docs/.vuepress/.temp/register-components/clientAppEnhance.039e954d.js'
 
 export const clientAppEnhances = [
   clientAppEnhance0,
@@ -12,4 +13,5 @@ export const clientAppEnhances = [
   clientAppEnhance3,
   clientAppEnhance4,
   clientAppEnhance5,
+  clientAppEnhance6,
 ]

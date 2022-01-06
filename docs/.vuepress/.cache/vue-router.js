@@ -15,33 +15,43 @@ import {
   unref,
   watch,
   watchEffect
-} from "./chunk-PVW4A3TB.js";
-import "./chunk-QZSKD35J.js";
+} from "./chunk-PUBZX5WT.js";
+import "./chunk-XPUMZHC6.js";
 import {
   init_define_DEMOBLOCK_LOCALES,
   init_define_GLOBAL_OBJECT,
-  init_define_MZ_ZOOM_OPTIONS
-} from "./chunk-HGB2DLN5.js";
+  init_define_MZ_ZOOM_OPTIONS,
+  init_define_SEARCH_HOT_KEYS,
+  init_define_SEARCH_LOCALES
+} from "./chunk-PGDHN74W.js";
 
 // dep:vue-router
 init_define_DEMOBLOCK_LOCALES();
 init_define_GLOBAL_OBJECT();
 init_define_MZ_ZOOM_OPTIONS();
+init_define_SEARCH_HOT_KEYS();
+init_define_SEARCH_LOCALES();
 
 // node_modules/vue-router/dist/vue-router.esm-bundler.js
 init_define_DEMOBLOCK_LOCALES();
 init_define_GLOBAL_OBJECT();
 init_define_MZ_ZOOM_OPTIONS();
+init_define_SEARCH_HOT_KEYS();
+init_define_SEARCH_LOCALES();
 
 // node_modules/@vue/devtools-api/lib/esm/index.js
 init_define_DEMOBLOCK_LOCALES();
 init_define_GLOBAL_OBJECT();
 init_define_MZ_ZOOM_OPTIONS();
+init_define_SEARCH_HOT_KEYS();
+init_define_SEARCH_LOCALES();
 
 // node_modules/@vue/devtools-api/lib/esm/env.js
 init_define_DEMOBLOCK_LOCALES();
 init_define_GLOBAL_OBJECT();
 init_define_MZ_ZOOM_OPTIONS();
+init_define_SEARCH_HOT_KEYS();
+init_define_SEARCH_LOCALES();
 function getDevtoolsGlobalHook() {
   return getTarget().__VUE_DEVTOOLS_GLOBAL_HOOK__;
 }
@@ -54,6 +64,8 @@ var isProxyAvailable = typeof Proxy === "function";
 init_define_DEMOBLOCK_LOCALES();
 init_define_GLOBAL_OBJECT();
 init_define_MZ_ZOOM_OPTIONS();
+init_define_SEARCH_HOT_KEYS();
+init_define_SEARCH_LOCALES();
 var HOOK_SETUP = "devtools-plugin:setup";
 var HOOK_PLUGIN_SETTINGS_SET = "plugin:settings:set";
 
@@ -61,6 +73,8 @@ var HOOK_PLUGIN_SETTINGS_SET = "plugin:settings:set";
 init_define_DEMOBLOCK_LOCALES();
 init_define_GLOBAL_OBJECT();
 init_define_MZ_ZOOM_OPTIONS();
+init_define_SEARCH_HOT_KEYS();
+init_define_SEARCH_LOCALES();
 var ApiProxy = class {
   constructor(plugin, hook) {
     this.target = null;
@@ -161,41 +175,57 @@ var ApiProxy = class {
 init_define_DEMOBLOCK_LOCALES();
 init_define_GLOBAL_OBJECT();
 init_define_MZ_ZOOM_OPTIONS();
+init_define_SEARCH_HOT_KEYS();
+init_define_SEARCH_LOCALES();
 
 // node_modules/@vue/devtools-api/lib/esm/api/api.js
 init_define_DEMOBLOCK_LOCALES();
 init_define_GLOBAL_OBJECT();
 init_define_MZ_ZOOM_OPTIONS();
+init_define_SEARCH_HOT_KEYS();
+init_define_SEARCH_LOCALES();
 
 // node_modules/@vue/devtools-api/lib/esm/api/app.js
 init_define_DEMOBLOCK_LOCALES();
 init_define_GLOBAL_OBJECT();
 init_define_MZ_ZOOM_OPTIONS();
+init_define_SEARCH_HOT_KEYS();
+init_define_SEARCH_LOCALES();
 
 // node_modules/@vue/devtools-api/lib/esm/api/component.js
 init_define_DEMOBLOCK_LOCALES();
 init_define_GLOBAL_OBJECT();
 init_define_MZ_ZOOM_OPTIONS();
+init_define_SEARCH_HOT_KEYS();
+init_define_SEARCH_LOCALES();
 
 // node_modules/@vue/devtools-api/lib/esm/api/context.js
 init_define_DEMOBLOCK_LOCALES();
 init_define_GLOBAL_OBJECT();
 init_define_MZ_ZOOM_OPTIONS();
+init_define_SEARCH_HOT_KEYS();
+init_define_SEARCH_LOCALES();
 
 // node_modules/@vue/devtools-api/lib/esm/api/hooks.js
 init_define_DEMOBLOCK_LOCALES();
 init_define_GLOBAL_OBJECT();
 init_define_MZ_ZOOM_OPTIONS();
+init_define_SEARCH_HOT_KEYS();
+init_define_SEARCH_LOCALES();
 
 // node_modules/@vue/devtools-api/lib/esm/api/util.js
 init_define_DEMOBLOCK_LOCALES();
 init_define_GLOBAL_OBJECT();
 init_define_MZ_ZOOM_OPTIONS();
+init_define_SEARCH_HOT_KEYS();
+init_define_SEARCH_LOCALES();
 
 // node_modules/@vue/devtools-api/lib/esm/plugin.js
 init_define_DEMOBLOCK_LOCALES();
 init_define_GLOBAL_OBJECT();
 init_define_MZ_ZOOM_OPTIONS();
+init_define_SEARCH_HOT_KEYS();
+init_define_SEARCH_LOCALES();
 
 // node_modules/@vue/devtools-api/lib/esm/index.js
 function setupDevtoolsPlugin(pluginDescriptor, setupFn) {

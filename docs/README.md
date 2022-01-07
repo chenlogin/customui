@@ -1,25 +1,20 @@
 ---
 home: true
+heroImage: https://vuejs.org/images/logo.png
 actions:
 - text: Get Started
   link: /guide/install.html
   type: primary
 - text: Components
-  link: /components/layout.html
+  link: /basic/button.html
   type: secondary
 
 features:
-  - title: 💡 Instant Server Start
-    details: On demand file serving over native ESM, no bundling required!
-  - title: ⚡️ Lightning Fast HMR
-    details: Hot Module Replacement (HMR) that stays fast regardless of app size.
-  - title: 🛠️ Rich Features
-    details: Out-of-the-box support for TypeScript, JSX, CSS and more.
-  - title: 📦 Optimized Build
-    details: Pre-configured Rollup build with multi-page and library mode support.
-  - title: 🔩 Universal Plugins
-    details: Rollup-superset plugin interface shared between dev and build.
-  - title: 🔑 Fully Typed APIs
-    details: Flexible programmatic APIs with full TypeScript typing.
+  - title: 简洁至上
+    details: 以 Markdown 为中心的项目结构，以最少的配置帮助你专注于写作。
+  - title: Vue 驱动
+    details: 享受 Vue 的开发体验，可以在 Markdown 中使用 Vue 组件，又可以使用 Vue 来开发自定义主题。
+  - title: 高性能
+    details: VuePress 会为每个页面预渲染生成静态的 HTML，同时，每个页面被加载的时候，将作为 SPA 运行。
 footer: MIT Licensed | Copyright © 2021-present Summer
 ---
